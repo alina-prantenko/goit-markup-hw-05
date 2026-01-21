@@ -702,7 +702,7 @@ a {
 }
 
 .modal-field {
-  margin-bottom: 16px;
+  margin-bottom: 8px;
 }
 
 .modal-label {
@@ -713,11 +713,11 @@ a {
   letter-spacing: 0.04em;
   color: #8E8F99;
   margin-bottom: 4px;
-  margin-top: 8px;
+  
 }
 
 .modal-input {
-  border: 1px solid #2E2F42;
+  border: 1px solid rgba(46, 47, 66, 0.4);
   border-radius: 4px;
   height: 40px;
   width: 100%;
@@ -805,13 +805,8 @@ a {
   
 }
 
-.policy-link-text {
-  color: #8E8F99;
-  text-decoration: underline;
-  letter-spacing: 0.04em;
-}
 
-.policy-link {
+.modal-policy-link {
   color: #4D5AE5;
   text-decoration: underline;
 }
