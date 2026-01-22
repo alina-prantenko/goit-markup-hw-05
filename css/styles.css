@@ -705,6 +705,10 @@ a {
   margin-bottom: 8px;
 }
 
+.modal-field-text-area {
+  margin-bottom: 16px;
+}
+
 .modal-label {
   display: block;
   font-weight: 400;
