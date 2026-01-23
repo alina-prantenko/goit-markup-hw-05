@@ -853,3 +853,10 @@ a {
 .modal-submit-btn:focus {
   background-color: #404bbf;
 }
+
+.footer-input {
+  font-size: 12px;
+    line-height: 2;
+    letter-spacing: 0.04em;
+    color: #ffffff;
+}
